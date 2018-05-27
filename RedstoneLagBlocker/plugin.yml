@@ -1,0 +1,7 @@
+name: RedstoneLagBlocker
+main: at.berndoj.redlagblock.main.RedstoneLagBlocker
+version: final-1.0
+commands:
+  redstonelength:
+    description: Gets the count of a specific connected redstone wire.
+    usage: /redstonelength
